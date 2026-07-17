@@ -13,7 +13,8 @@ This site includes my portfolio, bio and contact information.
 - [TailwindCSS](https://tailwindcss.com/) – Utility-first CSS framework
 - [Starwind Components](https://starwindui.com/) – Custom components (cards, buttons, badges)
 
-...and the invaluable help of the **"Astro Beginner Bites - Learn the Basics of Astro.js"** free course series by **Code with Petipois** 
+...and the invaluable help of the **"Astro Beginner Bites - Learn the Basics of Astro.js"** free course series by **Code with Petipois**.
+
 Link: https://www.youtube.com/playlist?list=PLP5oBhNCHQF3i6fqtFRYjeHDEovxSYjKC
 
 ---
